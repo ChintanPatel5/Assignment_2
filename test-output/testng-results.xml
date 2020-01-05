@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49760" started-at="2020-01-05T23:36:45 IST" finished-at="2020-01-05T23:37:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49760" started-at="2020-01-05T23:36:45 IST" finished-at="2020-01-05T23:37:34 IST">
+      <class name="com.tripadvisor.qa.testcases.ReviewHotel">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tripadvisor.qa.testcases.ReviewHotel@7b49cea0]" name="setUp" is-config="true" duration-ms="17050" started-at="2020-01-05T23:36:45 IST" finished-at="2020-01-05T23:37:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="reviewHotel()[pri:0, instance:com.tripadvisor.qa.testcases.ReviewHotel@7b49cea0]" name="reviewHotel" duration-ms="32654" started-at="2020-01-05T23:37:02 IST" finished-at="2020-01-05T23:37:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reviewHotel -->
+      </class> <!-- com.tripadvisor.qa.testcases.ReviewHotel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
