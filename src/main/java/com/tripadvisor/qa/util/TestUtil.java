@@ -9,7 +9,7 @@ import com.tripadvisor.qa.base.TestBase;
 
 public class TestUtil extends TestBase
 {
-	public static long pageLoad_timeout= 30;
+	public static long pageLoad_timeout= 100; //increase time if page is taking more time to load.
 	public static long implicitelyWait_timeout=20;
 	
 	public static void switchTab(int tabNo)
